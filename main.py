@@ -9,3 +9,4 @@ def is_odd(number):
 if __name__ == "__main__":
     print("is_even(4):", is_even(4))  # 预期输出：True
     print("is_odd(4):", is_odd(4))    # 预期输出：False
+    print("is_odd(3):", is_odd(3))    # 预期输出：True
