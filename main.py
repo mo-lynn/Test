@@ -1,3 +1,4 @@
+# 判断一个数是否是偶数
 def is_even(number):
     return number % 2 == 0
 
